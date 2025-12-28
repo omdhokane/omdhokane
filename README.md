@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about data science <br>I'm looking for data scientist <br>I'm looking for managing large datasets <br>I love traveling..
+I'm currently learning about data science <br>I'm looking for data scientist role<br>I'm looking for managing large datasets <br>I love traveling..
 
 
 ## 🌐 Socials:
